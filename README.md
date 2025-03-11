@@ -20,7 +20,9 @@ cd <path-repositorio>
 
 
 
-
+requisitos para o computador:
+-git
+-VScode
 
 
 ```
